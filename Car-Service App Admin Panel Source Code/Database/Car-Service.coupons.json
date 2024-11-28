@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "668f5bdf9cdfc9fb389eeb3c"
+  },
+  "name": "100 off",
+  "coupon_code": "SAVE100",
+  "coupon_type": "fixed",
+  "coupon_amount": 10,
+  "start_date": "20-07-2024",
+  "expiry_date": "10-08-2024",
+  "minimum_spend": 1,
+  "maximum_spend": 1,
+  "usage_limit_per_coupon": 25,
+  "usage_limit_per_user": 1,
+  "createdAt": {
+    "$date": "2024-07-11T04:13:19.572Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T13:53:29.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f6bb56b5e56da969fabd3"
+  },
+  "name": "200 off",
+  "coupon_code": "SAVE200",
+  "coupon_type": "fixed",
+  "coupon_amount": 20,
+  "start_date": "20-07-2024",
+  "expiry_date": "30-07-2024",
+  "minimum_spend": 1,
+  "maximum_spend": 1,
+  "usage_limit_per_coupon": 1,
+  "usage_limit_per_user": 1,
+  "createdAt": {
+    "$date": "2024-07-11T05:20:53.679Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-31T12:57:27.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7f1b45522be2e9172c53"
+  },
+  "name": "5 % OFF",
+  "coupon_code": "5OFF",
+  "coupon_type": "percentage",
+  "coupon_amount": 5,
+  "start_date": "21-07-2024",
+  "expiry_date": "21-08-2024",
+  "minimum_spend": 1,
+  "maximum_spend": -1,
+  "usage_limit_per_coupon": 50,
+  "usage_limit_per_user": 1,
+  "createdAt": {
+    "$date": "2024-07-23T09:59:55.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T10:52:23.847Z"
+  },
+  "__v": 0
+}]

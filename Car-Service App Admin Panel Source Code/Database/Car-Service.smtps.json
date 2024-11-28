@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "65d47aeeda97cfdd0ffd4bfb"
+  },
+  "host": "smtp-relay.sendinblue.com",
+  "port": "587",
+  "email": "jognmartin84@gmail.com",
+  "password": "xsmtpsib-81e43f8c9007c6f1a34ee40d7fdfbae7c83b145ee2fa9f39ea192ca3b51b0868-0gHFy1JzfDRSOj3Z",
+  "encryption": "TLS",
+  "createdAt": {
+    "$date": "2024-02-20T10:11:58.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-06T06:52:00.177Z"
+  },
+  "__v": 0
+}]

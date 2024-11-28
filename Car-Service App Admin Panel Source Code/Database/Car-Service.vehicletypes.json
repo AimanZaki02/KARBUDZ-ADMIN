@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "66863f235220c3731504992f"
+  },
+  "vehicle_type": "Regular Size Car",
+  "image": "1722598718058-Regular size car.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-04T06:20:19.726Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T11:38:38.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668643417e07ba8bcfe8e232"
+  },
+  "vehicle_type": "Medium Size Car",
+  "image": "1722596805755-Medium size car.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-04T06:37:53.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T11:06:45.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668643677e07ba8bcfe8e23f"
+  },
+  "vehicle_type": "Compact SUV",
+  "image": "1722598756270-Compact SUV.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-04T06:38:31.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T07:19:56.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668644317e07ba8bcfe8e24f"
+  },
+  "vehicle_type": "Minivan",
+  "image": "1722598768446-Minivan.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-04T06:41:53.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T07:19:58.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668644c47e07ba8bcfe8e26a"
+  },
+  "vehicle_type": "Pickup Truck",
+  "image": "1722598744316-Pickup truck.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-04T06:44:20.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T11:39:04.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668645dc7e07ba8bcfe8e27d"
+  },
+  "vehicle_type": "Cargo Truck",
+  "image": "1722598702105-Cargo truck.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-04T06:49:00.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T11:38:22.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acb74da8bd9f72a3504eca"
+  },
+  "vehicle_type": "Car audi",
+  "image": "1722595149238-Screenshot_4.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-08-02T10:39:09.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T10:39:09.257Z"
+  },
+  "__v": 0
+}]

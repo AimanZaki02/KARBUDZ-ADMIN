@@ -1,0 +1,143 @@
+<%- include('../layout/header.ejs') %>
+    <body id="kt_app_body" data-kt-app-header-fixed="true" data-kt-app-header-fixed-mobile="true" data-kt-app-sidebar-enabled="true" data-kt-app-sidebar-fixed="true" data-kt-app-sidebar-hoverable="true" data-kt-app-sidebar-push-toolbar="true" data-kt-app-sidebar-push-footer="true" data-kt-app-toolbar-enabled="true" data-kt-app-aside-enabled="true" data-kt-app-aside-fixed="true" data-kt-app-aside-push-toolbar="true" data-kt-app-aside-push-footer="true" class="app-default">
+        <div class="d-flex flex-column flex-root app-root" id="kt_app_root">
+            <div class="app-page flex-column flex-column-fluid" id="kt_app_page">
+                <%- include('../layout/navbar.ejs') %>
+                <div class="app-wrapper flex-column flex-row-fluid" id="kt_app_wrapper">
+                    <%- include('../layout/sidebar.ejs') %>
+                    <div class="app-main flex-column flex-row-fluid" id="kt_app_main">
+                        <div class="d-flex flex-column flex-column-fluid">
+                            <div id="kt_app_toolbar" class="app-toolbar pt-5">
+                                <div id="kt_app_toolbar_container" class="app-container container-fluid d-flex align-items-stretch">
+                                    <div class="app-toolbar-wrapper d-flex flex-stack flex-wrap gap-4 w-100">
+                                        <div class="page-title d-flex flex-column gap-1 me-3 mb-2">
+                                            <ul class="breadcrumb breadcrumb-separatorless fw-semibold mb-6">
+                                                <li class="breadcrumb-item text-gray-700 fw-bold lh-1">
+                                                    <a href="/booking" class="text-gray-500">
+                                                        <i class="ki-duotone ki-calendar-tick fs-2 text-gray-900">
+                                                            <span class="path1"></span>
+                                                            <span class="path2"></span>
+                                                            <span class="path3"></span>
+                                                            <span class="path4"></span>
+                                                            <span class="path5"></span>
+                                                            <span class="path6"></span>
+                                                        </i>
+                                                    </a>
+                                                </li>
+                                                <li class="breadcrumb-item">
+                                                    <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                                </li>
+                                                <li class="breadcrumb-item text-gray-900 fw-bold lh-1">Booking</li>
+                                                <li class="breadcrumb-item">
+                                                    <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                                </li>
+                                                <li class="breadcrumb-item text-gray-500">Edit Booking</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="kt_app_content" class="app-content flex-column-fluid">
+                                <div id="kt_app_content_container" class="app-container container-fluid">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <% if(typeof message !== 'undefined'){ %>
+                                                <div class="alert alert-success alert-dismissible" role="alert"><%= message %>
+                                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                                </div>
+                                            <% } %>
+                                            <% if(flash.error.length> 0){ %>
+                                                <div class="alert alert-danger alert-dismissible" role="alert">
+                                                    <%= flash.error %>
+                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                                </div>
+                                            <% } %>
+                                            <div class="card mb-5 mb-xl-10">
+                                                <div class="card-header border-0 cursor-pointer" role="button" data-bs-toggle="collapse" data-bs-target="#kt_account_profile_details" aria-expanded="true" aria-controls="kt_account_profile_details">
+                                                    <div class="card-title m-0">
+                                                        <h3 class="fw-bold m-0">Edit Order Status</h3>
+                                                    </div>
+                                                </div>
+                                            <form class="form form-vertical" method="post" <% if(booking.orderStatus == "refunded"){ %> enctype="multipart/form-data" <% } %>>
+                                                <div class="card-body border-top p-9">
+                                                    <div class="row mb-10">
+                                                        <div class="col-md-12">
+                                                            <div class="row mb-3">
+                                                                <label class="col-sm-2 col-form-label" for="basic-icon-default-fullname">Order Status</label>
+                                                                <div class="col-sm-10">
+                                                                    <div class="input-group">
+                                                                        <input type="hidden" name="id" value="<%= booking._id %>">
+                                                                        <% if(booking.orderStatus != "refunded") { %>
+                                                                        <select class="form-select" name="orderStatus" data-control="select2" id="order">
+                                                                            <option value="pending" <% if(booking.orderStatus == "pending") { %> selected <% } %>>Pending</option>
+                                                                            <option value="confirmed" <% if(booking.orderStatus == "confirmed") { %> selected <% } %>>Confirmed</option>
+                                                                            <option value="in_progress" <% if(booking.orderStatus == "in_progress") { %> selected <% } %>>In Progress</option>
+                                                                            <option value="ready_for_pickup" <% if(booking.orderStatus == "ready_for_pickup") { %> selected <% } %>>Ready for Pickup</option>
+                                                                            <option value="completed" <% if(booking.orderStatus == "completed") { %> selected <% } %>>Completed</option>
+                                                                            <option value="cancelled" <% if(booking.orderStatus == "cancelled") { %> selected <% } %>>Cancelled</option>
+                                                                            <option value="refunded" <% if(booking.orderStatus == "refunded") { %> selected <% } %>>Refunded</option>
+                                                                            <option value="failed" <% if(booking.orderStatus == "failed") { %> selected <% } %>>Failed</option>
+                                                                        </select>
+                                                                        <% } %>
+                                                                        <% if(booking.orderStatus == "refunded") { %>
+                                                                            <select class="form-select" data-control="select2" disabled>
+                                                                                <option value="pending" <% if(booking.orderStatus == "pending") { %> selected <% } %>>Pending</option>
+                                                                                <option value="confirmed" <% if(booking.orderStatus == "confirmed") { %> selected <% } %>>Confirmed</option>
+                                                                                <option value="in_progress" <% if(booking.orderStatus == "in_progress") { %> selected <% } %>>In Progress</option>
+                                                                                <option value="ready_for_pickup" <% if(booking.orderStatus == "ready_for_pickup") { %> selected <% } %>>Ready for Pickup</option>
+                                                                                <option value="completed" <% if(booking.orderStatus == "completed") { %> selected <% } %>>Completed</option>
+                                                                                <option value="cancelled" <% if(booking.orderStatus == "cancelled") { %> selected <% } %>>Cancelled</option>
+                                                                                <option value="refunded" <% if(booking.orderStatus == "refunded") { %> selected <% } %>>Refunded</option>
+                                                                                <option value="failed" <% if(booking.orderStatus == "failed") { %> selected <% } %>>Failed</option>
+                                                                            </select>
+                                                                        <% } %>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <% if(booking.orderStatus == "refunded") { %>
+                                                    <div class="row mb-10 refund-sec">
+                                                        <label class="required form-label fs-5 fw-semibold col-lg-2">Refunded Screenshot</label>
+                                                        <div class="col-lg-10">
+                                                            <div class="image-input image-input-outline <%= refund.refunded_screenshot == null ? 'image-input-empty' : '' %>" data-kt-image-input="true" style="background-image: url(assets/media/svg/files/blank-image.svg)">
+                                                                <div class="image-input-wrapper w-125px h-125px" style="background-image: url('/images/<%= refund.refunded_screenshot %>')"></div>
+                                                                    <label class="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="change" data-bs-toggle="tooltip" data-bs-dismiss="click" title="Change avatar">
+                                                                        <i class="ki-duotone ki-pencil fs-6"><span class="path1"></span><span class="path2"></span></i>
+                                                                        <input type="file" name="refunded_screenshot" accept=".png, .jpg, .jpeg"  id="avatar-input" />
+                                                                        <input type="hidden" name="avatar_remove" />
+                                                                    </label>
+                                                                    <span class="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="cancel" data-bs-toggle="tooltip" data-bs-dismiss="click" title="Cancel avatar">
+                                                                        <i class="ki-outline ki-cross fs-3"></i>
+                                                                    </span>
+                                                                    <span class="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="remove" data-bs-toggle="tooltip" data-bs-dismiss="click"title="Remove avatar">
+                                                                        <i class="ki-outline ki-cross fs-3"></i>
+                                                                    </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <% } %>
+                                                </div>
+                                                <div class="card-footer">
+                                                    <div class="col-12 d-flex justify-content-end">
+                                                        <button type="submit" class="btn btn-primary me-3 mb-1">Save</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="kt_app_footer" class="app-footer align-items-center justify-content-center justify-content-md-between flex-column flex-md-row py-3">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<%- include('../layout/footer.ejs') %>
+                                                           
+
+
+           

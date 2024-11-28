@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6688e69b8e895ec35687396b"
+  },
+  "title": "20% off for Periodic Maintenance",
+  "image": "1721716149528-1173.jpg",
+  "serviceId": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "is_active": 0,
+  "createdAt": {
+    "$date": "2024-07-06T06:39:23.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:18:28.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688e7f8ebe784358c7a6c16"
+  },
+  "title": "25% Off for Detailing Service",
+  "image": "1721715953205-19602.jpg",
+  "serviceId": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "is_active": 0,
+  "createdAt": {
+    "$date": "2024-07-06T06:45:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:18:28.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4e45f1d6e08d7f8ee77a"
+  },
+  "title": "10% off for Car Spa & Cleaning",
+  "image": "1721716293011-2149212208.jpg",
+  "serviceId": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "is_active": 0,
+  "createdAt": {
+    "$date": "2024-07-23T06:31:33.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:18:29.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4e83f1d6e08d7f8ee790"
+  },
+  "title": "5% off for Tyres Care",
+  "image": "1721716355298-2148327597.jpg",
+  "serviceId": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "is_active": 0,
+  "createdAt": {
+    "$date": "2024-07-23T06:32:35.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:18:27.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f4f0af1d6e08d7f8ee7a6"
+  },
+  "title": "10% off for Painting",
+  "image": "1721716490254-2149714302.jpg",
+  "serviceId": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "is_active": 0,
+  "createdAt": {
+    "$date": "2024-07-23T06:34:50.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:18:26.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acb36ea8bd9f72a34f058f"
+  },
+  "title": "New car offer",
+  "image": "1722594158289-Screenshot_2.png",
+  "serviceId": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "is_active": 0,
+  "createdAt": {
+    "$date": "2024-08-02T10:22:38.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:18:25.865Z"
+  },
+  "__v": 0
+}]

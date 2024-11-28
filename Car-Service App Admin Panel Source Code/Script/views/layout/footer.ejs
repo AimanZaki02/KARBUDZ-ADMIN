@@ -1,0 +1,308 @@
+<!-- <script>var hostUrl = "assets/";</script> -->
+<!--begin::Global Config(global config for global JS scripts)-->
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="assets/plugins/global/plugins.bundle.js"></script>
+<script src="assets/js/custom/authentication/sign-in/general.js"></script>
+<script src="assets/plugins/custom/datatables/datatables.bundle.js"></script>
+<script src="assets/js/scripts.bundle.js"></script>
+<script src="assets/js/widgets.bundle.js"></script>
+<script src="assets/js/custom/widgets.js"></script>
+<script src="assets/js/custom/utilities/modals/users-search.js"></script>
+<script src="assets/plugins/custom/formrepeater/formrepeater.bundle.js"></script>
+<!--end::Global Config-->
+
+<!--begin::Custom Js-->
+<script src="assets/js/search.js"></script>
+<script src="assets/js/gallery.js"></script>
+<script src="assets/js/paymentGateway.js"></script>
+<script src="assets/js/custom.js"></script>
+<!--end::Custom Js-->
+
+<!-- Repeater-->
+ <script type="text/javascript">
+	jQuery('#center_timeslot').repeater({
+		initEmpty: false,
+		defaultValues: {
+			'text-input': 'foo'
+		},
+		show: function () {
+			jQuery(this).slideDown();
+		},
+		hide: function (deleteElement) {
+			jQuery(this).slideUp(deleteElement);
+		}
+	});
+</script>
+
+<!--Quill Editor Js-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/quill/2.0.1/quill.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script type="text/javascript">
+	// Get the hidden input field
+	function myFunction() {
+		var editor = document.getElementsByClassName('ql-editor')[0].innerHTML
+		var about = document.querySelector('input[name=description]');
+		about.value = editor
+	};
+
+	// Quill editor Toolbar options
+	const toolbarOptions = [
+		['bold', 'italic', 'underline'], // toggled buttons
+		['blockquote', 'code-block'], // blocks
+		['image'],//Image
+		[{ 'list': 'ordered' }, { 'list': 'bullet' }, { 'list': 'check' }], // lists
+		[{ 'header': [1, 2, 3, 4, 5, 6, false] }], // headings
+		[{ 'font': [] }], // font family
+		[{ 'align': [] }],  // text align
+	];
+
+	// Quill editor
+	const quill = new Quill('#description', {
+		modules: {
+			toolbar: toolbarOptions
+		},
+		placeholder: 'Compose an epic...',
+		theme: 'snow', // or 'bubble'
+	});
+
+	// Paste plaintext into the editor
+	// quill.clipboard.addMatcher(Node.ELEMENT_NODE, function (node, delta) {
+	// 	var plaintext = node.innerText
+	// 	var Delta = Quill.import('delta')
+	// 	return new Delta().insert(plaintext)
+	// })
+
+	// Get the hidden input field
+	var form = document.querySelector("form");
+	var hiddenInput = document.querySelector('#hiddenInput');
+
+	// On form submission, fill the hidden input with the editor's content
+	form.addEventListener('submit', function (e) {
+		hiddenInput.value = quill.root.innerHTML;
+	});
+</script>
+
+<!--add active class to menu js -->
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+		var url = window.location;
+		jQuery('#kt_app_sidebar div.menu-sub a[href="' + url + '"]').addClass('active');
+		jQuery('#kt_app_sidebar div.menu-sub a').filter(function() {
+			return this.href == url;
+		}).addClass('active');
+			jQuery('a.active').parent().addClass("test");
+		jQuery('div.test').parent().parent().addClass("show here");
+		jQuery('div.test').parent().parent().parent().parent().addClass("show here");
+
+		jQuery('#kt_app_sidebar div.menu-item a[href="' + url + '"]').addClass('active');
+		jQuery('#kt_app_sidebar div.menu-item a').filter(function() {
+			return this.href == url;
+		}).addClass('active');
+
+	});
+</script>
+
+<!--Datatable js -->
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+		jQuery('#list-table,#bannerlist-table,#bookingList-table').DataTable({
+			lengthMenu: [
+				[10, 20, 40, 60, -1],
+				[10, 20, 40, 60, 'All'],
+			],
+			info: true,
+			language: {
+				paginate: {
+					next: '<i class="next"></i>', // or '→'
+					previous: '<i class="previous"></i>' // or '←' 
+				}
+			}
+		});
+
+	});
+</script>
+
+<!--filterBanner js, filterBooking js -->
+<script type="text/javascript">
+	$(document).ready(function () {
+		// Banner Table
+		$('#bannerlist-table tbody tr').show();
+        // Event handler for filter change
+        $('#filterBanner').change(function () {
+            var selectedService = $(this).find('option:selected').text();
+			console.log("selectedService",selectedService);
+            if (selectedService === 'All') {
+                // Show all rows if "All" is selected
+                $('#bannerlist-table tbody tr').show();
+            } else {
+                // Hide all rows and then show only those matching the selected status
+                $('#bannerlist-table tbody tr').hide().filter(function () {
+                    var status = $(this).find('td:nth-child(3)').text().trim();
+                    return status === selectedService;
+                }).show();
+            }
+        });
+
+		 // Event handler for filter change
+		 $('#filterBooking').change(function () {
+            var selectedService = $(this).find('option:selected').text();
+			console.log("selectedService",selectedService);
+            if (selectedService === 'All') {
+                // Show all rows if "All" is selected
+                $('#bookingList-table tbody tr').show();
+            } else {
+                // Hide all rows and then show only those matching the selected status
+                $('#bookingList-table tbody tr').hide().filter(function () {
+                    var status = $(this).find('td:nth-child(10)').text().trim();
+                    return status === selectedService;
+                }).show();
+            }
+        });
+
+    });
+</script>
+
+<!-- Refunded Booking js -->
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+		jQuery("#orderStatus").on('change',function(){
+		let status = jQuery("#orderStatus option:selected").val();
+		if(status == "refunded"){
+			jQuery('.refund-sec').show();
+		}
+		else{
+		jQuery('.refund-sec').hide();
+		}
+	});
+});
+</script>
+
+<!--Time Range Picker-->
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+
+		// Time Range Picker
+		// jQuery("#timerangePicker").daterangepicker({
+		// 	timePicker : true,
+        //     timePicker24Hour : true,
+        //     timePickerIncrement : 1,
+        //     timePickerSeconds : true,
+		// 		locale : {
+		// 			format : 'hh:mm A'
+		// 		}
+		// 	}).on('show.daterangepicker', function(ev, picker) {
+		// 		picker.container.find(".calendar-table").hide();
+		// 	});
+
+		// Single Slot Duration Picker
+		$("#slotdurationPicker").flatpickr({
+			enableTime: true,
+			noCalendar: true,
+			time_24hr:true,
+			dateFormat: "H:i",
+		});
+	});
+</script>
+
+<script type="text/javascript">
+	function initializeDateRangePicker() {
+		$('.timerangePicker').each(function() {
+			$(this).daterangepicker({
+				timePicker: true,
+				timePicker24Hour: false,
+				timePickerIncrement: 1,
+				timePickerSeconds: true,
+				locale: {
+					format: 'hh:mm A'
+				}
+			}).on('show.daterangepicker', function(ev, picker) {
+				picker.container.find(".calendar-table").hide();
+			});
+		});
+	}
+	$(document).ready(function() {
+		initializeDateRangePicker();
+
+		// Reinitialize the date range picker when a new item is added by the repeater
+		$('[data-repeater-create]').click(function() {
+			setTimeout(function() {
+				initializeDateRangePicker();
+			}, 100); // Give a slight delay to ensure the new elements are added to the DOM
+		});
+	});
+</script>
+
+<!--Quill Editor Js-->
+<script>
+	 document.addEventListener("DOMContentLoaded", function() {
+    // Define all elements for quill editor
+    const elements = ['#terms_condition','#privacy_policy','#about','#help'];
+
+    // Loop all elements
+    elements.forEach(element => {
+        // Get quill element
+        let quillElement = document.querySelector(element);
+
+        // Break if element not found
+        if (!quillElement) {
+            return;
+        }
+        const quill = new Quill(quillElement, {
+            modules: {
+                toolbar: [
+                    ['bold', 'italic', 'underline'], // toggled buttons
+                    ['blockquote', 'code-block'], // blocks
+                    ['link','image'],//Link, Image
+                    [{ 'list': 'ordered' }, { 'list': 'bullet' }], // lists
+                    [{ 'header': [1, 2, 3, 4, 5, 6, false] }], // headings
+                    [{ 'font': [] }], // font family
+                    [{ 'align': [] }]  // text align
+                ]
+            },
+            placeholder: 'Type your text here...',
+            theme: 'snow' // or 'bubble'
+        });
+
+			// Paste plaintext into the editor
+			quill.clipboard.addMatcher(Node.ELEMENT_NODE, function (node, delta) {
+				var plaintext = node.innerText
+				var Delta = Quill.import('delta')
+				return new Delta().insert(plaintext)
+			});
+
+			// Get the hidden input field for this editor
+			const hiddenInput = document.querySelector(`input[name=${element.replace('#', '')}]`);
+
+			// On form submission, fill the hidden input with the editor's content
+			const form = document.querySelector("form");
+			form.addEventListener('submit', function (e) {
+				hiddenInput.value = quill.root.innerHTML;
+			});
+		});
+
+	});
+
+	// Custom function to submit all Quill editor data
+	function submitAllQuillData() {
+		// Loop through all Quill editors
+		const quillEditors = document.querySelectorAll('.ql-editor');
+		quillEditors.forEach(editor => {
+			// Get the content of the Quill editor
+			var editorContent = editor.innerHTML;
+
+			// Find the corresponding hidden input field
+			var hiddenInputName = editor.closest('.mb-15').querySelector('input[type="hidden"]').name;
+			var hiddenInput = document.querySelector(`input[name="${hiddenInputName}"]`);
+
+			// Assign the content of the Quill editor to the hidden input field
+			hiddenInput.value = editorContent;
+		});
+
+		// Submit the form
+		document.querySelector("form").submit();
+	}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "651be1fcf6e89dffc4d4839b"
+  },
+  "email": "admin@gmail.com",
+  "password": "5a77d1e9612d350b3734f6282259b7ff0a3f87d62cfef5f35e91a5604c0490a3",
+  "is_admin": 1,
+  "createdAt": {
+    "$date": "2023-10-03T09:42:20.572Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T09:15:12.315Z"
+  },
+  "__v": 0,
+  "active": true,
+  "username": "admin",
+  "image": "1723626912303-002 (1).jpg",
+  "phone": "7896542310"
+},
+{
+  "_id": {
+    "$oid": "65af5dd11e12f0a3091c0898"
+  },
+  "email": "demo@gmail.com",
+  "password": "5a77d1e9612d350b3734f6282259b7ff0a3f87d62cfef5f35e91a5604c0490a3",
+  "is_admin": 0,
+  "createdAt": {
+    "$date": "2023-10-03T09:42:20.572Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T08:34:41.022Z"
+  },
+  "__v": 0,
+  "active": true,
+  "username": "demo",
+  "image": "1707899262440-pexels-andrea-piacquadio-874158 (2).jpg",
+  "phone": "9874563210"
+}]

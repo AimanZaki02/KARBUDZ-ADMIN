@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "668f694c07c9cc1ee5b83e22"
+  },
+  "tax_name": "VAT",
+  "country_code": "UK",
+  "tax_rate": "20%",
+  "createdAt": {
+    "$date": "2024-07-11T05:10:36.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T05:58:16.471Z"
+  },
+  "__v": 0
+}]

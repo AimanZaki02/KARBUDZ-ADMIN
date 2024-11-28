@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "name": "Periodic Service",
+  "image": "1722663438011-Periodic maintenance.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T05:37:15.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:54.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "name": "Batteries",
+  "image": "1722663213071-Batteries.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T05:55:32.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:54.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688dcc062f50f6232c7b93b"
+  },
+  "name": "Insurance Claims",
+  "image": "1722684544966-Insurance claims.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T05:57:20.130Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "name": "Denting & Painting",
+  "image": "1722684956463-Top-ups.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T06:14:42.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "name": "Tyres & Wheel Care",
+  "image": "1722663315363-Wheel care.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T06:18:46.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:54.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6688e21162f50f6232c7b971"
+  },
+  "name": "Windshields & Lights",
+  "image": "1722684595374-Windshields & lights.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T06:20:01.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "name": "Detailing Service",
+  "image": "1722663505822-Denting & painting.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:22:39.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "name": "Car Spa & Cleaning",
+  "image": "1722684521755-Car spa & cleaning.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:23:57.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669764a21672aa90e00ed216"
+  },
+  "name": "Suspension & Fitments",
+  "image": "1722684558876-Suspension & fitments.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:28:50.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669764ef1672aa90e00ed231"
+  },
+  "name": "Clutch & Body Parts",
+  "image": "1722684581913-Clutch & body parts.png",
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:30:07.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:43:55.151Z"
+  },
+  "__v": 0
+}]

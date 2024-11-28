@@ -1,0 +1,121 @@
+<%- include('../layout/header.ejs') %>
+<body id="kt_app_body" data-kt-app-header-fixed="true" data-kt-app-header-fixed-mobile="true" data-kt-app-sidebar-enabled="true" data-kt-app-sidebar-fixed="true" data-kt-app-sidebar-hoverable="true" data-kt-app-sidebar-push-toolbar="true" data-kt-app-sidebar-push-footer="true" data-kt-app-toolbar-enabled="true" data-kt-app-aside-enabled="true" data-kt-app-aside-fixed="true" data-kt-app-aside-push-toolbar="true" data-kt-app-aside-push-footer="true" class="app-default">
+    <div class="d-flex flex-column flex-root app-root" id="kt_app_root">
+        <div class="app-page flex-column flex-column-fluid" id="kt_app_page">
+            <%- include('../layout/navbar.ejs') %>
+            <div class="app-wrapper flex-column flex-row-fluid" id="kt_app_wrapper">
+                <%- include('../layout/sidebar.ejs') %>
+                <div class="app-main flex-column flex-row-fluid" id="kt_app_main">
+                    <div class="d-flex flex-column flex-column-fluid">
+                        <div id="kt_app_toolbar" class="app-toolbar pt-5">
+                            <div id="kt_app_toolbar_container" class="app-container container-fluid d-flex align-items-stretch">
+                                <div class="app-toolbar-wrapper d-flex flex-stack flex-wrap gap-4 w-100">
+                                    <div class="page-title d-flex flex-column gap-1 me-3 mb-2">
+                                        <ul class="breadcrumb breadcrumb-separatorless fw-semibold mb-6">
+                                            <li class="breadcrumb-item text-gray-700 fw-bold lh-1">
+                                                <a href="/tax-setting" class="text-gray-500">
+                                                    <i class="fa-solid fa-gear fs-1 text-gray-900"></i>
+                                                </a>
+                                            </li>
+                                            <li class="breadcrumb-item">
+                                                <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                            </li>
+                                            <li class="breadcrumb-item text-gray-900 fw-bold lh-1">Setting</li>
+                                            <li class="breadcrumb-item">
+                                                <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                            </li>
+                                            <li class="breadcrumb-item text-gray-500">Tax Setting</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="kt_app_content" class="app-content flex-column-fluid">
+                            <div id="kt_app_content_container" class="app-container container-fluid">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <% if(typeof message !== 'undefined'){ %>
+                                            <div class="alert alert-success alert-dismissible" role="alert"><%= message %>
+                                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                            </div>
+                                        <% } %>
+                                        <% if(flash.error.length> 0){ %>
+                                            <div class="alert alert-danger alert-dismissible" role="alert">
+                                                <%= flash.error %>
+                                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                            </div>
+                                        <% } %>
+                                        <div class="card mb-5 mb-xl-10">
+                                            <div class="card-header border-0 cursor-pointer" role="button" data-bs-toggle="collapse" data-bs-target="#kt_account_profile_details" aria-expanded="true" aria-controls="kt_account_profile_details">
+                                                <div class="card-title m-0">
+                                                    <h3 class="fw-bold m-0">Tax Setting</h3>
+                                                </div>
+                                            </div>
+                                        <form class="form form-vertical" method="post">
+                                            <div class="card-body border-top p-9">
+                                                <div class="row mt-8 mb-10 enable_tax">
+                                                    <label class="required form-label fs-5 fw-semibold col-lg-4">Enable tax rates and calculations</label>
+                                                    <div class="col-lg-8">
+                                                        <div class="form-check form-switch">
+                                                            <input class="form-check-input" type="checkbox" name="enable_tax" id="enableTaxSwitch"
+                                                            <% if(taxSetting) { if(taxSetting.enable_tax == 1) { %> checked <% }} %>/>
+                                                        </div>                                                    
+                                                    </div>
+                                                </div>
+                                                <div class="row mb-10 tax-inputs">
+                                                    <label class="required form-label fs-5 fw-semibold col-lg-4">Prices entered with tax</label>
+                                                    <div class="col-lg-8">
+                                                        <div class="d-flex gap-10">
+                                                            <div class="form-check form-check-custom form-check-solid">
+                                                                <input class="form-check-input" type="radio" id="priceWithTax" name="price_with_tax" value="true"
+                                                                <%= taxSetting && taxSetting.price_with_tax === true ? 'checked' : '' %>/>
+                                                                <label class="form-check-label" for="priceWithTax">Yes, I will enter prices inclusive of tax</label>
+                                                            </div>
+                                                            <div class="form-check form-check-custom form-check-solid">
+                                                                <input class="form-check-input" type="radio"  id="priceWithtax" name="price_with_tax" value="false"
+                                                                <%= taxSetting && taxSetting.price_with_tax === false ? 'checked' : '' %> />
+                                                                <label class="form-check-label" for="priceWithtax"> No, I will enter prices exclusive of tax</label>
+                                                            </div>
+                                                        </div>                                                    
+                                                    </div>
+                                                </div>
+                                                <div class="row mb-10 tax-inputs">
+                                                    <label class="required form-label fs-5 fw-semibold col-lg-4">Calculate tax based on</label>
+                                                    <div class="col-lg-8">
+                                                        <select class="form-select form-select-solid" data-control="select2" name="calculate_tax_based_on">
+                                                            <option value="customer_shipping_address" <%= taxSetting && taxSetting.calculate_tax_based_on === 'customer_shipping_address' ? 'selected' : '' %>>Customer Shipping Address</option>
+                                                            <option value="customer_billing_address" <%= taxSetting && taxSetting.calculate_tax_based_on === 'customer_billing_address' ? 'selected' : '' %>>Customer Billing Address</option>
+                                                            <option value="store_address" <%= taxSetting && taxSetting.calculate_tax_based_on === 'store_address' ? 'selected' : '' %>>Store Address</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="row mb-10 tax-inputs">
+                                                    <label class="required form-label fs-5 fw-semibold col-lg-4">Shipping tax class</label>
+                                                    <div class="col-lg-8">
+                                                        <select class="form-select form-select-solid" data-control="select2" name="shipping_tax_class">
+                                                            <option value="based_on_cart" <%= taxSetting && taxSetting.shipping_tax_class === 'based_on_cart' ? 'selected' : '' %>>Shipping tax class based on cart items</option>
+                                                            <option value="standard" <%= taxSetting && taxSetting.shipping_tax_class === 'standard' ? 'selected' : '' %>>Standard</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card-footer">
+                                                <div class="col-12 d-flex justify-content-end">
+                                                    <button type="submit" class="btn btn-primary me-3 mb-1">Submit</button>
+                                                    <a href="/view-coupon" class="btn btn-dark ms-3 mb-1">Back</a>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="kt_app_footer" class="app-footer align-items-center justify-content-center justify-content-md-between flex-column flex-md-row py-3">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<%- include('../layout/footer.ejs') %>

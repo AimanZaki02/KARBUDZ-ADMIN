@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "668b7caa199b0364070d7373"
+  },
+  "slot_duration": "06:00",
+  "working_days": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday"
+  ],
+  "timings": "09:00 AM - 06:00 PM",
+  "week_off_days": [
+    "sunday"
+  ],
+  "createdAt": {
+    "$date": "2024-07-08T05:44:10.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T14:31:25.368Z"
+  },
+  "__v": 0
+}]

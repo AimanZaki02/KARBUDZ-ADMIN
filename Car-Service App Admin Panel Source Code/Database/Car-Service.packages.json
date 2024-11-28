@@ -1,0 +1,1213 @@
+[{
+  "_id": {
+    "$oid": "6688f51b686e431d334a997c"
+  },
+  "title": "Front Windshield Replacement",
+  "image": "1721451113692-Designer (10).jpeg",
+  "price": 58.77,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty on Fitting&nbsp;&nbsp;&nbsp;• On Crack in Windshield (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Windshield (ISI Approved)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Windshield Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Sensor Charges Additional (If Applicable)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Consumables - Sealant/Bond/Adhesive</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e21162f50f6232c7b971"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T07:41:15.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:47.841Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721451148160-Designer (13).jpeg",
+    "1721451148162-Designer (11).jpeg",
+    "1721451148168-Designer (12).jpeg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668904d125b4c6c819a9100d"
+  },
+  "title": "Rear Windshield Replacement",
+  "image": "1721451264956-Designer (17).jpeg",
+  "price": 37.86,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty on Fitting&nbsp;&nbsp;&nbsp;• On Crack in Windshield (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Windshield (ISI Approved)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Windshield Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Defogger Charges Additional (If Applicable)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Consumables - Sealant/Bond/Adhesive</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e21162f50f6232c7b971"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-06T08:48:17.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:47.920Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721451282732-Designer (18).jpeg",
+    "1721451282735-Designer (16).jpeg",
+    "1721451282736-Designer (15).jpeg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6690c1229da3af228f068eb8"
+  },
+  "title": "Apollo Alnac 4GS",
+  "image": "1721200770500-Apollo Alnac 4GS.jpg",
+  "price": 63.48,
+  "description": "<p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">• Size - 185/65 R15 88H&nbsp;</strong><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;• 5 years warranty&nbsp;&nbsp;&nbsp;&nbsp;• Tubeless&nbsp;&nbsp;&nbsp;&nbsp;• Fitting Cost Included</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Replacement at Service Center</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyres Inspection for Tread</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alignment &amp; Balancing Charges Extra</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-12T05:37:38.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:14.462Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457719888-Apollo Tyre1.jpg",
+    "1721457719899-Apollo Tyre2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976718486cd0e9b1fe38cd"
+  },
+  "title": "Standard Service",
+  "image": "1722600051687-Rectangle 4504.png",
+  "price": 44.51,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">1000 Kms or 1 Month Warranty&nbsp;&nbsp;&nbsp;Every 10,000 Kms or 6 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Car Scanning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Battery Water Top up</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Interior Vacuuming ( Carpet &amp; Seats )</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Front Brake Pads Serviced</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Oil Filter Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Fuel Filter Checking</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Heater/Spark Plugs Checking</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">AC Filter Cleaning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Wiper Fluid Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Rear Brake Shoes Serviced</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Engine Oil Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Air Filter Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Coolant Top Up (200 ml)</span></li></ol>",
+  "serviceId": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:39:20.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:18.262Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721456748048-16594.jpg",
+    "1721456748052-2149212211.jpg",
+    "1721456762636-MRF ZLX.jpg",
+    "1721456762639-pexels-cottonbro-4489743.jpg",
+    "1721456762639-Regular AC Service.jpg",
+    "1721456855841-Engine Oil.jpg",
+    "1721456878783-2148254106.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976a1a486cd0e9b1fe396d"
+  },
+  "title": "Basic Service",
+  "image": "1721199130253-Basic Service.jpg",
+  "price": 39.72,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">&nbsp;1000 Kms or 1 Month Warranty&nbsp;&nbsp;&nbsp;• Every 5000 Kms or 3 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Wiper Fluid Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Engine Oil Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Air Filter Cleaning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Battery Water Top Up</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Interior Vacuuming ( Carpet &amp; Seats )</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Heater/Spark Plugs Checking</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Oil Filter Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Coolant Top Up (200 ml)</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:52:10.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:19.032Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457039331-1164 (1).jpg",
+    "1721457039341-19705.jpg",
+    "1721457039345-16581.jpg",
+    "1721457039347-Engine Oil.jpg",
+    "1721457039352-Silencer Repair22.jpg",
+    "1721457039358-2149212218.jpg",
+    "1721457039361-2150552297.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976b73486cd0e9b1fe3983"
+  },
+  "title": "Comprehensive Service",
+  "image": "1721199475819-Comprehensive Service.jpg",
+  "price": 69.04,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">1000 Kms or 1 Month Warranty&nbsp;&nbsp;&nbsp;• Every 20,000 Kms or 12 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">AC Filter Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Fuel Filter Checking</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Car Scanning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Wiper Fluid Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Battery Water Top up</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Interior Vacuuming ( Carpet &amp; Seats )</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Rear Brake Shoes Serviced</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Front Brake Pads Serviced</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Wheel Balancing (30 gms Weight Included)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Wheel Alignment</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Rotation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Engine Oil Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Oil Filter Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Air Filter Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Throttle Body Cleaning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Gear Oil Top Up</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Coolant Top Up (200 ml)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Heater/Spark Plugs Checking</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Brake Fluid Top Up</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Engine Flushing</span></li></ol>",
+  "serviceId": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:57:55.825Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:19.970Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457103270-1164 (1).jpg",
+    "1721457103274-19705.jpg",
+    "1721457103285-Silencer Repair22.jpg",
+    "1721457103286-Silencer Repair2.jpg",
+    "1721457103291-Clutch _ Transmission Troubles.jpg",
+    "1721457103291-2148254106.jpg",
+    "1721457103294-Designer (14).jpeg",
+    "1721457103295-19690.jpg",
+    "1721457103297-16613.jpg",
+    "1721457103298-1164.jpg",
+    "1721457103300-6987.jpg",
+    "1721457103307-6628.jpg",
+    "1721457103309-2149193624.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976bed486cd0e9b1fe39aa"
+  },
+  "title": "Front Brake Pads",
+  "image": "1721199597146-Front Brake Pads.jpg",
+  "price": 25.12,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">&nbsp;1 Month Warranty&nbsp;&nbsp;&nbsp;• Every 20000 Kms or 12 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Opening &amp; Fitting of Front Brake Pads</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Front Brake Pads Replacement (OES)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Applicable for Set of 2 Front Brake Pads</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Inspection of Front Brake Calipers</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Front Brake Disc Cleaning</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T06:59:57.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:20.587Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457256988-Front Brake Pads1.jpg",
+    "1721457256993-Front Brake Pads2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976c7b486cd0e9b1fe39c0"
+  },
+  "title": "Rear Brake Shoes",
+  "image": "1721199739117-Rear Brake Shoes.jpg",
+  "price": 31.1,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">1 Month Warranty&nbsp;&nbsp;&nbsp;• Every 20000 Kms or 12 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Opening &amp; Fitting of Rear Brake Pads</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Rear Brake Shoes Replacement (OES)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Applicable for Set of 2 Rear Brake Pads</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Inspection of Rear Brake Calipers</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Rear Brake Disc Cleaning</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688d80ba51ed6796b8c1448"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:02:19.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:21.819Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457348244-Rear Brake Shoes1.jpg",
+    "1721457348247-Rear Brake Shoes2.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976e8b486cd0e9b1fe3a57"
+  },
+  "title": "Amaron (55 Months Warranty)",
+  "image": "1721452758462-amaron go new-min.png",
+  "price": 49.05,
+  "description": "<p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">35 Amp Hour&nbsp;</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">55 Months Warranty</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Free of Cost Installation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Installation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Old Battery Price Included</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Available at Doorstep</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:11:07.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:10.003Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721452903516-11_11_Amaron-FLO-DIN55R.jpg",
+    "1721460027660-Amaron-DIN50-1.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976ecf486cd0e9b1fe3a6d"
+  },
+  "title": "Amaron (66 Months Warranty)",
+  "image": "1721452766276-amaron go new-min.png",
+  "price": 76.59,
+  "description": "<p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">35 Amp Hour</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">66 Months Warranty</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Free of Cost Installation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Installation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Old Battery Price Included</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Available at Doorstep</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:12:15.175Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:10.410Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721452925196-11_11_Amaron-FLO-DIN55R.jpg",
+    "1721452925196-Amaron-DIN50-1.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976f26486cd0e9b1fe3a83"
+  },
+  "title": "Exide (55 Months Warranty)",
+  "image": "1721453089934-download (1).png",
+  "price": 51.45,
+  "description": "<p><strong style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">40 Amp Hour</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">55 Months Warranty</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Free of Cost Installation&nbsp;&nbsp;&nbsp;&nbsp;</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Free Installation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Old Battery Price Included</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Available at Doorstep</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:13:42.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:10.934Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721453079755-download (2).png",
+    "1721453079758-download (1).png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976f8b486cd0e9b1fe3a99"
+  },
+  "title": "Livguard (60 Months Warranty)",
+  "image": "1721453312468-Livguard.png",
+  "price": 41.88,
+  "description": "<p><strong style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">35 Amp Hour</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">60 Months Warranty</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Free of Cost Installation&nbsp;&nbsp;&nbsp;&nbsp;</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Free Installation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Old Battery Price Included</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Available at Doorstep</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:15:23.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:11.450Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721453235586-livguard-battery1.jfif",
+    "1721453235586-livguard-battery2.jfif"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66976fdd486cd0e9b1fe3aaf"
+  },
+  "title": "Alternator Replacement",
+  "image": "1721452790878-Thumbnail.jpg",
+  "price": 114.05,
+  "description": "<p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">1 Month Warranty</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Recommended : In Case of frequently Discharging Battery</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alternator Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Opening &amp; Fitting of Alternator</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alternator Belt Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dc5462f50f6232c7b92b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:16:45.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:12.442Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721452607784-1499.jpg",
+    "1721452607787-31698.jpg",
+    "1721452607789-1614.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669770bc486cd0e9b1fe3afb"
+  },
+  "title": "Apollo Amazer 4G Life",
+  "image": "1721200828354-Apollo Alnac 4GS.jpg",
+  "price": 66.56,
+  "description": "<p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Size - 185/65 R15 88T&nbsp;</strong><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;• 5 years warranty&nbsp;&nbsp;&nbsp;&nbsp;• Tubeless&nbsp;&nbsp;&nbsp;&nbsp;• Fitting Cost Included</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Replacement at Service Center</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyres Inspection for Tread</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alignment &amp; Balancing Charges Extra</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:20:28.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:14.934Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457744558-Apollo Tyre1.jpg",
+    "1721457744563-Apollo Tyre2.jpg",
+    "1721457754350-Apollo Alnac 4GS.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66977270486cd0e9b1fe3b4a"
+  },
+  "title": "Complete Wheel Care",
+  "image": "1721201264843-Complete Wheel Care.jpg",
+  "price": 17.34,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">&nbsp;Every 6 Months or 5,000 Kms (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Automated Wheel Balancing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Weight Correction</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alloy Weights Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Laser Assisted Wheel Alignment</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Steering Adjustment and Correction</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Camber and Castor Adjustment</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">All Four Tyre Rotation as per Tread Wear</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:27:44.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:15.505Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721457806205-Apollo Tyre2.jpg",
+    "1721457806208-16581.jpg",
+    "1721457842648-wheel-care.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669773a2486cd0e9b1fe3b60"
+  },
+  "title": "MRF ZLX",
+  "image": "1721201570326-MRF ZLX.jpg",
+  "price": 47.39,
+  "description": "<p><strong style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Size - 165/80 R14 TL</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\"> 6 years warranty&nbsp;</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Tubeless</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Fitting Cost Included</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Replacement at Service Center</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyres Inspection for Tread</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alignment &amp; Balancing Charges Extra</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:32:50.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:16.012Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721458008106-MRF_tyre-replace.jpg",
+    "1721458008115-MRF-tyre2.png",
+    "1721458008119-MRF-tyre.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669773e7486cd0e9b1fe3b76"
+  },
+  "title": "Mud Flaps",
+  "image": "1721458109455-Mud Flaps.jpg",
+  "price": 52.65,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">• 1 Month Warranty on Fitting&nbsp;&nbsp;&nbsp;• Excellent Durability</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Mud Flaps Set of 4</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Prevents Soil Accumulation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Protects Car Underbody</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Easy Fitment</span></li></ol>",
+  "serviceId": {
+    "$oid": "6688e1c662f50f6232c7b961"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:33:59.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:16.533Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721458369545-Mud Flaps2.jfif"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66977466486cd0e9b1fe3b96"
+  },
+  "title": "Car Wash & Wax",
+  "image": "1721449587523-26881.jpg",
+  "price": 13.15,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">• Maintains Car Shine&nbsp;&nbsp;&nbsp;• Recommended Every 2 Months</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Interior Vacuuming</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Dashboard and Tyre Polish</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Body Wax</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:36:06.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:28.776Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721449641883-2149212211.jpg",
+    "1721449641887-26881.jpg",
+    "1721449641894-26046.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669774bd486cd0e9b1fe3bac"
+  },
+  "title": "Car Rubbing & Polishing",
+  "image": "1721449605641-2149212223.jpg",
+  "price": 16.74,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Takes 6 Hours</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Machine Rubbing with Compound</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Wax Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Pressure Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Dressing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alloy Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:37:33.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:31.316Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721449691459-2149172891.jpg",
+    "1721449691462-6987.jpg",
+    "1721449691467-27487 (1).jpg",
+    "1721449691469-6628.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6697754e486cd0e9b1fe3bc7"
+  },
+  "title": "360° Deep Cleaning",
+  "image": "1721201998260-Car Wash & Wax.jpg",
+  "price": 25.12,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">1 Month Warranty&nbsp;&nbsp;&nbsp;• Brand New Festive Look</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Exterior Rubbing &amp; Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Interior Wet Shampooing &amp; Detailing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Interior Vacuum Cleaning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Pressure Washing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Dressing &amp; Alloy Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:39:58.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:32.774Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721449764884-2149193616.jpg",
+    "1721449764887-2149212218.jpg",
+    "1721449764889-22314.jpg",
+    "1721449764893-36595.jpg",
+    "1721449764900-2150552297.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669775e3486cd0e9b1fe3bdd"
+  },
+  "title": "Car Interior Spa",
+  "image": "1721449615625-2149750041.jpg",
+  "price": 20.93,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">• Every 3 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Pressure Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Anti Viral &amp; Bacterial Treatment</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Interior Vacuum Cleaning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Dashboard Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Interior Wet Shampooing and Detailing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:42:27.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:33.701Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721450032844-2148194086.jpg",
+    "1721450032848-2795.jpg",
+    "1721450032851-36595 (2).jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66977613486cd0e9b1fe3bf3"
+  },
+  "title": "Deep All Round Spa",
+  "image": "1721202195610-car-7291166_640.jpg",
+  "price": 29.31,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Every 6 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Interior Vacuum Cleaning</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Dashboard Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Interior Wet Shampooing and Detailing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Pressure Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Rubbing with Compound</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Wax Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Machine Rubbing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Dressing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alloy Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697637d1672aa90e00ed1b5"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:43:15.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:34.449Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721450198934-2149193617.jpg",
+    "1721450198936-21774.jpg",
+    "1721450198937-2148194086 (1).jpg",
+    "1721450198940-49.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66977692486cd0e9b1fe3c1c"
+  },
+  "title": "Front Bumper Paint",
+  "image": "1721380577758-2149750037.jpg",
+  "price": 31.11,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">2 Years Warranty on Paint</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Removal of Minor Dent &amp; Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Grade A Primer Applied</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">High Quality DuPont Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Clear Coat Protective Layer Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Panel Rubbing &amp; Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:45:22.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.219Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721380747879-2149193626.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669776c9486cd0e9b1fe3c32"
+  },
+  "title": "Bonnet Paint",
+  "image": "1721202377764-Front Bumper Paint.jpg",
+  "price": 28.72,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">&nbsp;2 Years Warranty on Paint</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Removal of Minor Dent &amp; Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Grade A Primer Applied</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">High Quality DuPont Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clear Coat Protective Layer Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Panel Rubbing &amp; Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:46:17.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.293Z"
+  },
+  "__v": 0,
+  "gallery_images": [
+    "1721380729969-2149193626.jpg",
+    "1721380729971-2149193624.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66977748486cd0e9b1fe3c48"
+  },
+  "title": "Full Body Dent Paint",
+  "image": "1721380601525-2149193624.jpg",
+  "price": 305.16,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">• 2 Years Warranty on Paint</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Removal of Minor Dent &amp; Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Grade A Primer Applied</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">High Quality DuPont Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Clear Coat Protective Layer Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Panel Rubbing &amp; Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-17T07:48:24.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.366Z"
+  },
+  "__v": 1,
+  "gallery_images": [
+    "1721380753926-2149750037.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6698e81501156d8311c1ba50"
+  },
+  "title": "Accidental Denting & Painting (Insurance)",
+  "image": "1721454259705-Accidental Denting & Painting (Insurance).jpg",
+  "price": 13.14,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Recommended : In case of Comprehensive Policy</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Accidental Repair in Insurance</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Claim Intimation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Surveyor Estimate Approval</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Body Panel Replacement (If Required)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">File Charge Included</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dcc062f50f6232c7b93b"
+  },
+  "gallery_images": [
+    "1721454359867-7924.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-18T10:01:57.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:32.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a2f70e5eb83072904fb6c"
+  },
+  "title": "Rear Bumper Paint",
+  "image": "1721380720837-2149193626.jpg",
+  "price": 29.89,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 2 Years Warranty on Paint</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Removal of Minor Dent &amp; Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Grade A Primer Applied</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">High Quality DuPont Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clear Coat Protective Layer Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Panel Rubbing &amp; Polishing</span></li></ol><p><br></p><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "gallery_images": [
+    "1721380720853-2149193624.jpg",
+    "1721380720858-2149750037.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-19T09:18:40.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a3012e5eb83072904fbcd"
+  },
+  "title": "Boot Paint",
+  "image": "1721380882150-14927.jpg",
+  "price": 28.69,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">&nbsp;2 Years Warranty on Paint</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Removal of Minor Dent &amp; Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Grade A Primer Applied</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">High Quality DuPont Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clear Coat Protective Layer Paint</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Panel Rubbing &amp; Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e0d262f50f6232c7b94b"
+  },
+  "gallery_images": [
+    "1721380882152-14927.jpg",
+    "1721380882153-2149193626.jpg",
+    "1721380882155-2149193624.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-19T09:21:22.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a31c7e5eb83072904fc73"
+  },
+  "title": "3M™ Car Rubbing & Polishing",
+  "image": "1721381319176-2149193624.jpg",
+  "price": 28.68,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Every 6 Months (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Pressure Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Tyre Dressing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Alloy Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Machine Rubbing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Rubbing with 3M Compound</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">3M Wax Polishing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "gallery_images": [
+    "1721449219104-2149193565.jpg",
+    "1721449219107-2149193556.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-19T09:28:39.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:24.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b3a0a928bc6a925279edd"
+  },
+  "title": "Ceramic Coating",
+  "image": "1721448970419-2149342660.jpg",
+  "price": 169.6,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Year Warranty&nbsp;&nbsp;&nbsp;• Every 3 Years (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Complete Paint Correction</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">2 Layers of Coating</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Safely Removal of Minor Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Deep All Round Spa</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Exterior Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">9H Nano Coating</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Ultra Shine Polish</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "gallery_images": [
+    "1721448970428-36582.jpg",
+    "1721448970436-2149193628.jpg",
+    "1721448970439-2148194136.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T04:16:10.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:24.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b3b67928bc6a925279f1a"
+  },
+  "title": "3M™ Teflon Coating",
+  "image": "1721449319692-46149.jpg",
+  "price": 42.99,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 3 Months Warranty&nbsp;&nbsp;&nbsp;• Every 1 Year (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Pre-Coating Rubbing and Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Ultra Shine Polishing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Removes Minor Scratches</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Exterior Car Wash</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Full Body 3M Teflon Coating</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">3M Exterior Anti-Rust Treatment</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "gallery_images": [
+    "1721449319696-46149.jpg",
+    "1721449319703-2149750009.jpg",
+    "1721449319706-2149212247.jpg",
+    "1721449319709-2149193565.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T04:21:59.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:25.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b3bb0928bc6a925279f30"
+  },
+  "title": "PPF - Paint Protection Film",
+  "image": "1721449392716-2149750039.jpg",
+  "price": 482.53,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 3 Years Warranty&nbsp;&nbsp;&nbsp;• Every 3 Years (Recommended)</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">PPF -Paint Protection Film</span></p><p><br></p>",
+  "serviceId": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "gallery_images": [
+    "1721449392718-2149750039.jpg",
+    "1721449392729-2149342668.jpg",
+    "1721449392731-2149750037 (1).jpg",
+    "1721449392733-2149342660 (1).jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T04:23:12.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:26.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b3c39928bc6a925279f46"
+  },
+  "title": "Silencer Coating",
+  "image": "1721449529852-2149750041.jpg",
+  "price": 20.29,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 3 Months Warranty&nbsp;&nbsp;&nbsp;• Every 1 Year (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Silencer Anti Rust Coating</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Silencer Corrosion Protection</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">2 Layers of Protection</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6697632f1672aa90e00ed19c"
+  },
+  "gallery_images": [
+    "1721449529855-2149750041.jpg",
+    "1721449529857-36599.jpg",
+    "1721449529860-1454.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T04:25:29.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:51:26.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b43a8928bc6a92527a1b7"
+  },
+  "title": "Door Glass Replacement",
+  "image": "1721451432685-36583.jpg",
+  "price": 17.32,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty on Fitting&nbsp;&nbsp;&nbsp;• On Crack in Door Glass (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Door Glass (AIS Approved)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Glass Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Consumables - Bond/Adhesive</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">UV Glass Charges Additional (If Applicable)</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e21162f50f6232c7b971"
+  },
+  "gallery_images": [
+    "1721451432687-36583.jpg",
+    "1721451432690-2149593834.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T04:57:12.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:47.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b440d928bc6a92527a1cd"
+  },
+  "title": "Front Headlight",
+  "image": "1721451533535-2148510550.jpg",
+  "price": 45.39,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty on Fitting&nbsp;&nbsp;&nbsp;• For Broken / Cracked Lights (Recommended)</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Headlight OES (Price for single unit)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Spare Part Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Projector/LEDs/DRLs Additional (If Applicable)</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e21162f50f6232c7b971"
+  },
+  "gallery_images": [
+    "1721451533539-7805.jpg",
+    "1721451533541-2148510550.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T04:58:53.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b453a928bc6a92527a1e3"
+  },
+  "title": "Side Mirror Replacement",
+  "image": "1721451834278-2148129818.jpg",
+  "price": 26.1,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">&nbsp;1 Month Warranty&nbsp;&nbsp;&nbsp;• Recommended : In Case of Broken / Cracked Side Mirror</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Side Mirror Replacement OES (Single Unit)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Spare Part Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Semi &amp; Fully Automatic Side Mirror Cost Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Switch/Wiring Harness Cost Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688e21162f50f6232c7b971"
+  },
+  "gallery_images": [
+    "1721451834281-509.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:03:54.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:48.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4bff928bc6a92527a478"
+  },
+  "title": "Clutch Set Replacement",
+  "image": "1721453567039-26910.jpg",
+  "price": 66.28,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty&nbsp;&nbsp;&nbsp;• Recommended : In Case of Hard Clutch &amp; Pickup Issue</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clutch Set OES (Clutch Plate + Pressure Plate) Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Spare Part Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clutch Cable / Wire, Release Bearing / Clutch Cylinder, Flywheel, Slave Cylinder in Add Ons</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clutch Oil, Gear Oil Cost Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Automatic Transmission Clutch rates may vary</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764ef1672aa90e00ed231"
+  },
+  "gallery_images": [
+    "1721453567043-2150171257.jpg",
+    "1721453567059-1497.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:32:47.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:41.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4c6c928bc6a92527a48e"
+  },
+  "title": "Flywheel Replacement",
+  "image": "1721453676960-26653.jpg",
+  "price": 48.97,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty&nbsp;&nbsp;&nbsp;• Recommended : In Case of Noisy Clutch</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Flywheel OES Replacement</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Spare Part Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clutch Set, Clutch Bearing, Clutch Cable / Wire,Clutch Cylinder, Slave Cylinder in Add Ons</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clutch Oil, Gear Oil Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Automatic Transmission Clutch rates may vary</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol>",
+  "serviceId": {
+    "$oid": "669764ef1672aa90e00ed231"
+  },
+  "gallery_images": [
+    "1721453676964-1497 (1).jpg",
+    "1721453676969-26653.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:34:36.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:41.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4cce928bc6a92527a4af"
+  },
+  "title": "Clutch Overhaul",
+  "image": "1721453774464-clutch overhaul.jpg",
+  "price": 28.65,
+  "description": "<p><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">• 1 Month Warranty on Labour</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Opening &amp; Fitting + Inspection Of Below Items</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Clutch Plate</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Pressure Plate</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);\">Release Bearing</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764ef1672aa90e00ed231"
+  },
+  "gallery_images": [
+    "1721453774464-1497 (2).jpg",
+    "1721453774469-26910.jpg",
+    "1721453774470-2150171257.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:36:14.483Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:43.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4dc8928bc6a92527a4d0"
+  },
+  "title": "Front Bumper Replacement",
+  "image": "1721454024727-Front Bumper.png",
+  "price": 35.24,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty on Fitting&nbsp;&nbsp;&nbsp;• For Broken / Cracked Bumper ( Recommended )</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Opening &amp; Fitting of Front Bumper</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Front Bumper Replacement (Black Colour)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Brackets, Grills, Cladding Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Paint Cost Addtional</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764ef1672aa90e00ed231"
+  },
+  "gallery_images": [
+    "1721454024727-2149580560.jpg",
+    "1721454024733-26063.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:40:24.737Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:43.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4e3c928bc6a92527a4e6"
+  },
+  "title": "Clutch & Transmission Troubles",
+  "image": "1721454140578-Clutch _ Transmission Troubles.jpg",
+  "price": 7.15,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Recommended : In Case of Hard Clutch</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(34, 34, 34);\">2</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">5 Points Check-List</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Physical Car Diagnosis</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Clutch &amp; Gear Box Inspection</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764ef1672aa90e00ed231"
+  },
+  "gallery_images": [
+    "1721454140578-1497 (3).jpg",
+    "1721454140586-2147873902.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:42:20.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:43.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b4fa8928bc6a92527a564"
+  },
+  "title": "Fire Damage Assistance (Insurance)",
+  "image": "1721454504088-Fire Damage Assistance.jpg",
+  "price": 13.14,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Recommended : In case of Comprehensive Policy</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Repairing of Fire Damage in Insurance</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Claim Intimation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Surveyor Estimate Approval</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">File Charge Included</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dcc062f50f6232c7b93b"
+  },
+  "gallery_images": [
+    "1721454504089-2149437925.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T05:48:24.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:33.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b5292928bc6a92527a830"
+  },
+  "title": "Car Flood Damage (Insurance)",
+  "image": "1721455250954-car flood damage.jpg",
+  "price": 13.14,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Recommended : In case of Comprehensive Policy</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Repairing of Flood Damage in Insurance</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Claim Intimation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Surveyor Estimate Approval</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">File Charge Included</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "6688dcc062f50f6232c7b93b"
+  },
+  "gallery_images": [
+    "1721455250954-pexels-dibakar-roy-2432543-21960706.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:00:50.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:33.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b52ea928bc6a92527a846"
+  },
+  "title": "Insurance Claim Inspection",
+  "image": "1721455338600-Car Insurance_Square.jpg",
+  "price": 7.15,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Real Time Claim Tracking Mechanism&nbsp;&nbsp;&nbsp;• Free Pick-up/Drop</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Claim Intimation</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Surveyor Estimate Approval</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Co-ordination with Insurance Company</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">2 Years Warranty on Paint Jobs</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Policy Inspection</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Body Damage Inspection</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Insurance Claim Advice</span></li></ol>",
+  "serviceId": {
+    "$oid": "6688dcc062f50f6232c7b93b"
+  },
+  "gallery_images": [
+    "1721455338600-Car Insurance_Square.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:02:18.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:33.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b5402928bc6a92527a8ea"
+  },
+  "title": "EPS Module Repair",
+  "image": "1721455618929-EPS Module Repair.jpg",
+  "price": 57.33,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty&nbsp;&nbsp;&nbsp;• Recommended : In Case of Hard Steering</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">EPS Module Repair</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Steering Rack, Steering Motor Additional if Needed</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Torque Sensor Additional if Needed</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764a21672aa90e00ed216"
+  },
+  "gallery_images": [
+    "1721455618929-EPS Module Repair1.jpg",
+    "1721455618938-EPS Module Repair2.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:06:58.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:36.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b54a5928bc6a92527a900"
+  },
+  "title": "Steering Rack Repair",
+  "image": "1721455781034-Steering Rack Repair.jpg",
+  "price": 48.97,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty&nbsp;&nbsp;&nbsp;• Recommended : In Case of Hard Steering</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Steering Rack Repair</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Steering Bush Kit, Lathe Work, Wheel Alignment Included</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Steering Rod Resurfacing</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Calibration and Pinion Cost Addtional ( If Needed)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol>",
+  "serviceId": {
+    "$oid": "669764a21672aa90e00ed216"
+  },
+  "gallery_images": [
+    "1721455781035-656.jpg",
+    "1721455781037-655.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:09:41.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:37.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b5511928bc6a92527a916"
+  },
+  "title": "Front Shock Absorber Replacement",
+  "image": "1721455889371-Front Shock Absorber Replacement.jpg",
+  "price": 34.28,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty&nbsp;&nbsp;&nbsp;• Free Pickup and Drop</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Shocker Strut / Damper OES Replacement ( Single Unit )</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Spare Part Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Shocker Mount, Shocker Coil Spring Additional Charges</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Airmatic Shock Absorber Cost Additional ( If Applicable )</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764a21672aa90e00ed216"
+  },
+  "gallery_images": [
+    "1721455889371-Front Shock Absorber2.jfif",
+    "1721455889371-Front Shock Absorber Replacement.jpg",
+    "1721455940117-Front Shock Absorber3.jfif"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:11:29.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:37.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b5697928bc6a92527a93f"
+  },
+  "title": "Rear Shock Absorber Replacement",
+  "image": "1721456279381-RearshockThumbnail (1).jpg",
+  "price": 30.45,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• 1 Month Warranty&nbsp;&nbsp;&nbsp;• Free Pickup and Drop</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Shocker Strut / Damper OES Replacement ( Single Unit )</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Spare Part Price Only</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Shocker Mount, Shocker Coil Spring Additional Charges</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Airmatic Shock Absorber Cost Additional ( If Applicable )</span></li></ol><p><br></p>",
+  "serviceId": {
+    "$oid": "669764a21672aa90e00ed216"
+  },
+  "gallery_images": [
+    "1721456279381-RearshockThumbnail (1).jpg",
+    "1721456279382-Rear Shock Absorber2.jfif"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:17:59.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:37.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b5750928bc6a92527a955"
+  },
+  "title": "Silencer Repair",
+  "image": "1721456464203-Silencer Repair.jpg",
+  "price": 11.93,
+  "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">• Recommended : In Case of Silencer making Loud Roaring Noise</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Underbody Silencer Inspection</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Repair &amp; Welding of Faulty Silencer</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Sensors, Catalytic Convertor Cost Additional (If Applicable)</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Hanger, Clamp Cost Additional</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(74, 74, 74);\">Free Pickup &amp; Drop</span></li></ol>",
+  "serviceId": {
+    "$oid": "669764a21672aa90e00ed216"
+  },
+  "gallery_images": [
+    "1721456464203-Silencer Repair22.jpg",
+    "1721456464208-Silencer Repair2.jpg"
+  ],
+  "is_active": 1,
+  "createdAt": {
+    "$date": "2024-07-20T06:21:04.220Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T05:53:37.824Z"
+  },
+  "__v": 0
+}]

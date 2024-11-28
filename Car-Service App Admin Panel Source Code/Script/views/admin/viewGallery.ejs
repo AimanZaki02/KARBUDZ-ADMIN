@@ -1,0 +1,114 @@
+<%- include('../layout/header.ejs') %>
+<body id="kt_app_body" data-kt-app-header-fixed="true" data-kt-app-header-fixed-mobile="true" data-kt-app-sidebar-enabled="true" data-kt-app-sidebar-fixed="true" data-kt-app-sidebar-hoverable="true" data-kt-app-sidebar-push-toolbar="true" data-kt-app-sidebar-push-footer="true" data-kt-app-toolbar-enabled="true" data-kt-app-aside-enabled="true" data-kt-app-aside-fixed="true" data-kt-app-aside-push-toolbar="true" data-kt-app-aside-push-footer="true" class="app-default">
+    <div class="d-flex flex-column flex-root app-root" id="kt_app_root">
+        <div class="app-page flex-column flex-column-fluid" id="kt_app_page">
+            <%- include('../layout/navbar.ejs') %>
+            <div class="app-wrapper flex-column flex-row-fluid" id="kt_app_wrapper">
+                <%- include('../layout/sidebar.ejs') %>
+                <div class="app-main flex-column flex-row-fluid" id="kt_app_main">
+                    <div class="d-flex flex-column flex-column-fluid">
+                        <div id="kt_app_toolbar" class="app-toolbar pt-5">
+                            <div id="kt_app_toolbar_container" class="app-container container-fluid d-flex align-items-stretch">
+                                <div class="app-toolbar-wrapper d-flex flex-stack flex-wrap gap-4 w-100">
+                                    <div class="page-title d-flex flex-column gap-1 me-3 mb-2">
+                                        <ul class="breadcrumb breadcrumb-separatorless fw-semibold mb-6">
+                                            <li class="breadcrumb-item text-gray-700 fw-bold lh-1">
+                                                <a href="/view-service" class="text-gray-500">
+                                                    <i class="ki-duotone ki-setting-2 fs-1 text-gray-900">
+                                                        <span class="path1"></span>
+                                                        <span class="path2"></span>
+                                                    </i>
+                                                </a>
+                                            </li>
+                                            <li class="breadcrumb-item">
+                                                <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                            </li>
+                                            <li class="breadcrumb-item text-gray-900 fw-bold lh-1">Service</li>
+                                            <li class="breadcrumb-item">
+                                                <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                            </li>
+                                            <li class="breadcrumb-item text-gray-700 lh-1">Package</li>
+                                            <li class="breadcrumb-item">
+                                                <i class="ki-duotone ki-right fs-4 text-gray-700 mx-n1"></i>
+                                            </li>
+                                            <li class="breadcrumb-item text-gray-500 lh-1">Gallery</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="kt_app_content" class="app-content flex-column-fluid">
+                            <div id="kt_app_content_container" class="app-container container-fluid">
+                                <div class="row">
+                                    <div class="col-md-9">
+                                        <div class="card card-flush mb-5 mb-xl-10">
+                                            <div class="card-header pt-5 border-bottom-0 cursor-pointer align-items-center py-5 gap-2 gap-md-5" role="button" data-bs-toggle="collapse" data-bs-target="#kt_account_profile_details" aria-expanded="true" aria-controls="kt_account_profile_details">
+                                                <div class="card-title m-0 mt-5">
+                                                    <h2>Package Gallery</h2>
+                                                </div>
+                                            </div>
+                                            <div class="card-body border-top-0 pt-5 p-9">
+                                                <div class="row g-10 mb-5">
+                                                    <% if(gallery.gallery_images.length > 0) {  %>
+                                                        <%  for(let i=0; i < gallery.gallery_images.length; i++) { %>
+                                                            <div class="col-md-3 gal-img-wrap">
+                                                                <div class="card">
+                                                                        <img src="/images/<%= gallery.gallery_images[i] %>" alt="Avatar">
+                                                                </div>
+                                                                <div class="d-flex ms-3 icon-wrap">
+                                                                    <a href="/edit-image?img=<%= gallery.gallery_images[i] %>&id=<%= gallery._id %>" class="text-white"><i class="fa-regular fa-pen-to-square text-success me-2"></i></a>
+                                                                    <a href="/delete-image?img=<%= gallery.gallery_images[i] %>&id=<%= gallery._id %>" onclick="return confirmation()" class="text-white"><i class="fa-solid fa-trash-can text-danger me-2"></i></a>
+                                                                </div>
+                                                            </div>
+                                                        <% } %>
+                                                    <% }  %>             
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="card card-flush mb-5 mb-xl-10">
+                                            <div class="card-header pt-5 border-bottom-0 cursor-pointer align-items-center py-5 gap-2 gap-md-5" role="button" data-bs-toggle="collapse" data-bs-target="#kt_account_profile_details" aria-expanded="true" aria-controls="kt_account_profile_details">
+                                                <div class="card-title m-0 mt-5">
+                                                    <h2>Add New Images</h2>
+                                                </div>
+                                            </div>
+                                            <div class="card-body border-top-0 pt-5 p-9">
+                                                <form action="" method="post" enctype="multipart/form-data" runat="server">
+                                                    <div class="row mb-5 addNewImg">
+                                                        <input type="hidden" name="id" value="<%= gallery._id %>">
+                                                        <div class="upload-btn-wrapper border-dashed border-1 bg-light-primary d-flex p-5 rounded-4 border-danger">
+                                                            <i class="ki-duotone ki-file-up text-primary fs-3x"><span class="path1"></span><span class="path2"></span></i>
+                                                            <div class="ms-4">
+                                                                <h3 class="fs-5 fw-bold text-gray-900 mb-1">Click Here to Upload images</h3>
+                                                                <button class="btn p-0">Upload a file</button>
+                                                                <input type="file" name="gallery_images" id="imgInp" multiple required />
+                                                            </div>
+                                                        </div>
+                                                        <div id="image-preview"></div>
+                                                        <div class="mt-10">
+                                                            <button type="submit" class="btn btn-primary">Submit</button>
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="kt_app_footer" class="app-footer align-items-center justify-content-center justify-content-md-between flex-column flex-md-row py-3">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function confirmation() {
+        return confirm('Are you sure want to delete this Image?');
+    }
+</script>
+<%- include('../layout/footer.ejs') %>
+                                        
